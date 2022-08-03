@@ -39,4 +39,3 @@ jobs:
         goversion: "https://dl.google.com/go/go1.18.5.linux-amd64.tar.gz"
         project_path: "."
         binary_name: "pygopiler"
-        extra_files: LICENSE README.md
