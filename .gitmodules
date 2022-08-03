@@ -1,0 +1,3 @@
+[submodule "BatchBuildPython"]
+	path = BatchBuildPython
+	url = https://github.com/kamuridesu/BatchBuildPython.git

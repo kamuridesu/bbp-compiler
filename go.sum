@@ -1,0 +1,4 @@
+github.com/akavel/rsrc v0.10.2 h1:Zxm8V5eI1hW4gGaYsJQUhxpjkENuG91ki8B4zCrvEsw=
+github.com/akavel/rsrc v0.10.2/go.mod h1:uLoCtb9J+EyAqh+26kdrTgmzRBFPGOolLWKpdxkKq+c=
+github.com/sanderhahn/gozip v0.0.0-20191207051836-7f106575e243 h1:5fU+CC9PVUjjtPqGzRqf3ahJQ5FUM8qnLFtTlHHc9dg=
+github.com/sanderhahn/gozip v0.0.0-20191207051836-7f106575e243/go.mod h1:/G8jluZPe/0osxeYexU2BCfIjTxQ+tpLP1mLrIhhz/8=
