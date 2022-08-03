@@ -1,3 +1,5 @@
 [submodule "BatchBuildPython"]
 	path = BatchBuildPython
 	url = https://github.com/kamuridesu/BatchBuildPython.git
+[submodule "https://github.com/kamuridesu/BatchBuildPython.git"]
+	branch = main
