@@ -11,7 +11,7 @@ func getCliArgs() [2]string {
 	options := [2]string{
 		"pack",
 	}
-	if len(os.Args) < 2 || len(os.Args) > 2 {
+	if len(os.Args) < 2 {
 		log.Fatal("Invalid argument numbers")
 		os.Exit(1)
 	}
