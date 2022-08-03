@@ -32,7 +32,7 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - name: test
-      run: ls -la
+      run: ls -la BatchBuildPython
     - uses: wangyoucao577/go-release-action@v1.30
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
@@ -41,4 +41,4 @@ jobs:
         goversion: "https://dl.google.com/go/go1.18.5.linux-amd64.tar.gz"
         project_path: "."
         binary_name: "pygopiler"
-        extra_files: main.go.template manifest.xml.template BatchBuildPython/build.bat
+        extra_files: main.go.template manifest.xml.template ./BatchBuildPython/build.bat
